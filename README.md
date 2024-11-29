@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3><a align="center">ShopEazy</a></h3>
+  <h3><a align="center" href="https://shopeazy-nm0g.onrender.com/">ShopEazy</a></h3>
     <a >
 <img src="https://github.com/user-attachments/assets/28d8f66c-982d-4f25-a6d5-059fc8e05d4d"/>
     
