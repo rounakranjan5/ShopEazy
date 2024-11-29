@@ -1,4 +1,7 @@
 <div align="center">
+Shopeazy: Your one-stop shop for effortless online shopping! 🛒✨  
+</div>
+<div align="center">
   
   <h3><a align="center" href="https://shopeazy-nm0g.onrender.com/">ShopEazy</a></h3>
     <a >
