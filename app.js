@@ -20,7 +20,7 @@ const MongoStore = require('connect-mongo');
 
 
 // const dbURL = process.env.dbURL || 'mongodb://localhost:27017/shop-eazy';
-const dbURL = process.env.dbURL || "mongodb+srv://rounakranjanjha:LYZtljlPfZiNLAEP@cluster0.8z638.mongodb.net/shopeazy";
+const dbURL = process.env.dbURL || process.env.MONGO_URI;
 
 
 mongoose.set('strictQuery', true);
